@@ -1,4 +1,3 @@
-
 ---
 name: GitHub Auto Upload
 description: Automatically create a new GitHub repository and upload project files
